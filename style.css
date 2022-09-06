@@ -1,0 +1,9 @@
+.gradbar {
+  background: linear-gradient(to top, black, blue, black, blue, black, blue);
+  color: white
+}
+
+.img {
+  max-width: 10rem;
+  max-height: 10rem;
+}
